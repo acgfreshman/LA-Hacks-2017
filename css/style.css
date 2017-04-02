@@ -2,13 +2,19 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
+body {
+    background-image: url(../imageedit_7_3013960834.png);
+    background-position: absolute bottom;
+    background-repeat: no-repeat;
+}
+
 .logo {
     font-size: 40px;
     color: #fd5c63;
 }
 
 .navbar {
-    padding-bottom: 20px;
+    padding-bottom: 20px;5
     vertical-align: middle;
 }
 
